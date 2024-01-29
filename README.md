@@ -5,7 +5,7 @@ A repository created to host the website for NAUKA as created by NAUKA Aspirants
 ### Quick Setup Guide
 
 Quick setup — if you’ve done this kind of thing before
-or	
+or
 https://github.com/kulkarni-sneha/nauka-aspirants.git
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
